@@ -356,7 +356,7 @@ header
 }
 
 .header-area {
-  background-color: #000000;
+  background-color: #0d2cd8;
   position: absolute;
   top: 0px;
   left: 0px;
@@ -973,10 +973,10 @@ Banner Style
   font-weight: 800;
   color: #2a2a2a;
   line-height: 72px;
-  background: #fa9d4d;
+  background: #080604;
   background: -webkit-linear-gradient(to right, #fa9d4d 0%, #ff4f6b 100%);
   background: -moz-linear-gradient(to right, #fa9d4d 0%, #ff4f6b 100%);
-  background: linear-gradient(to right, #fa9d4d 0%, #ff4f6b 100%);
+  background: linear-gradient(to right, #2288cc 0%, #ff4f6b 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
