@@ -1800,3 +1800,49 @@ responsive
     padding: 30px;
   }
 }
+
+
+.mobile {
+  display: none;
+}
+
+.zone{
+  display: flex;
+  column-gap: 0.4em;
+}
+
+
+@media screen and (max-width: 768px) {
+  h4 {
+    
+
+  }
+  .zone {
+    margin-right: 2.4em;
+  }
+
+  .mobile {
+    display: block;
+    width: 30px;
+    font-size: 80px;
+    
+     
+  }
+  .logo {
+      display: none;
+      margin: 0;
+      box-sizing: border-box;
+      padding: 0;
+      
+  } 
+
+  .logo {
+    display: block;
+    position:absolute;
+    
+  }
+
+  .pc {
+    display: none;
+  }
+}
